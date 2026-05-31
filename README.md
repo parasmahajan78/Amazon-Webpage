@@ -1,21 +1,26 @@
-Amazon Clone
-📌 Project Overview
+# Amazon Clone
+## 📌 Project Overview
 
 Amazon Clone is a front-end web application that replicates the user interface of the Amazon homepage. The project focuses on creating a responsive and visually appealing e-commerce website layout using HTML and CSS.
 
-🚀 Features
-Amazon-style navigation bar
-Search functionality UI
-Product category sections
-Hero banner section
-Shopping cards layout
-Responsive footer design
-Clean and user-friendly interface
-🛠️ Technologies Used
-HTML5
-CSS3
-Font Awesome
-📂 Project Structure
+## 🚀 Features
+
+- Amazon-style navigation bar
+- Search functionality UI
+- Product category sections
+- Hero banner section
+- Shopping cards layout
+- Responsive footer design
+- Clean and user-friendly interface
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- Font Awesome
+  
+## 📂 Project Structure
+```text
 Amazon-Clone/
 │
 ├── finalindex.html
@@ -24,15 +29,18 @@ Amazon-Clone/
 ├── box2_image.jpg
 ├── ...
 └── assets/
-🎯 Learning Outcomes
-Improved HTML page structuring
-CSS Flexbox and layout design
-Responsive web development concepts
-UI cloning and styling techniques
+```
+
+## 🎯 Learning Outcomes
+
+- Improved HTML page structuring
+- CSS Flexbox and layout design
+- Responsive web development concepts
+- UI cloning and styling techniques
 
 📸 Screenshot
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Paras Mahajan
+**Paras Mahajan**
