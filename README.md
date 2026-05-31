@@ -39,7 +39,7 @@ Amazon-Clone/
 - UI cloning and styling techniques
 
 📸 Screenshot
-
+![image alt](https://github.com/parasmahajan78/Amazon-Webpage/blob/f112fa47e6fdfd90e88e26f22e9190c7e3f05866/Amazon%20Screenshot.png)
 
 ## 👨‍💻 Author
 
